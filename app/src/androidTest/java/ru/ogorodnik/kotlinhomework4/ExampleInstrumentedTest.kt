@@ -1,4 +1,4 @@
-package ru.ogorodnik.kotlinhomework3
+package ru.ogorodnik.kotlinhomework4
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
